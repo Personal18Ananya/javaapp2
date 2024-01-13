@@ -4,5 +4,6 @@
 <h2> This is Java Web App </h2>
 <p> In this app we are going to deploy things manually</p>
 <p> This is integrating with github <p/>
+<p> This is checking and testing the program </p>
 </body>
 </html>
